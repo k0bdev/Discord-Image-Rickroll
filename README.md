@@ -20,6 +20,8 @@ node .
 npm start
 # or other command depending on manager (e.g. "yarn start")
 ```
+Now you can share link with others:
+`https://<domain>/attachment/<random snowflake>/<random snowflake>/<random filename>.png`
 TIP: Best way to use it is by uploading it on some VPS (like replit) with discord-like link.
 ### [Configuration](/CONFIGURATION.md)
 ### Forks
