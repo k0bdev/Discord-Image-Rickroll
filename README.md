@@ -1,4 +1,4 @@
-⚠️ I did <b>not</b> include functions like token grabbing and I am <b>not supporting</b> that type of action, if you see someone using this code in malicious ways, report them!
+⚠️ I did <b>not</b> include functions like ip grabbing and I am <b>not supporting</b> that type of action, if you see someone using this code in malicious ways, report them!
 # Discord Image Rickroll
 Simple server written in Express that allows you make images redirecting to rickroll
 
