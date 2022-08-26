@@ -28,4 +28,5 @@ TIP: Best way to use it is by uploading it on some VPS (like replit) with discor
 If you want to fork it then there's no problems, i'll probably not gonna update it so often because it doesn't have so many functionalities that might break within time.
 And if you think it's a virus then that's why it is on github, you can check code whenever you want!
 ### Preview
-![prev1](https://user-images.githubusercontent.com/47297843/180517242-c0a71c02-180c-4b1b-9854-5b511af0367f.png)
+
+![prev1](https://user-images.githubusercontent.com/47297843/186881780-fea7dfd5-ddb0-431c-a450-30be106fe4aa.png)
